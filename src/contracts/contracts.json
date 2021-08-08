@@ -5,7 +5,7 @@
       "chainId": "3",
       "contracts": {
         "Token1": {
-          "address": "0x62C86279c090e7866489008215c33DA1aaef38b0",
+          "address": "0x69E679965bD24AD50EAC0e80f8dE41D37d364aEf",
           "abi": [
             {
               "inputs": [
@@ -314,7 +314,7 @@
           ]
         },
         "Token2": {
-          "address": "0xeA0fc42D420C4D4206049188141027477c92F11d",
+          "address": "0xCF278b031Ea2d20d6e20DF8B18EcBCE20FbB07BC",
           "abi": [
             {
               "inputs": [
@@ -623,7 +623,7 @@
           ]
         },
         "Token3": {
-          "address": "0x4F32E8A80Bc168F44dF9294a8FDb9e66dde1c952",
+          "address": "0xfA4AaFb49719CCC92F2efEbef38e55891670222e",
           "abi": [
             {
               "inputs": [

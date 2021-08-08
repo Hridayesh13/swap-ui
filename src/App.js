@@ -138,7 +138,7 @@ function App() {
       const tk2 = new ethers.Contract(token2.address, token2.abi, signer)
       // const tk3 = new ethers.Contract(token3.address, token3.abi, signer)
 
-      const r02 = new ethers.Contract(router.address, IUniswapV2Router02ABI, signer)
+      const r02 = new ethers.Contract(router.address, router.abi, signer)
       // const factory = new ethers.Contract(Factory.address, Factory.abi, signer)
       
       // uniswap router02 address : "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
